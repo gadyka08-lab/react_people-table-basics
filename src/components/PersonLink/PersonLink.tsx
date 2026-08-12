@@ -15,3 +15,4 @@ export const PersonLink = ({ person }: PersonLinkProps) => {
     </Link>
   );
 };
+// Additional Context: These are recently edited files. Do not suggest code that has been deleted.
